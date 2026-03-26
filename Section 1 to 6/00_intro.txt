@@ -1,0 +1,3 @@
+DataScience
+    Process od collecting, cleaning analyzinf and interpreting data to find meaning full insight, to make informed decision.
+

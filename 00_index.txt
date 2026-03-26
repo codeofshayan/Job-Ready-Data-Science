@@ -2,10 +2,10 @@
 
     24 sections • 203 lectures • 33hr 35min
 
-    Introduction to Data Science
+    Introduction to Data Science    > Completed 26-03-2026
     4 lectures • 28min
 
-    Understanding the Conda Environment
+    Understanding the Conda Environment     > Completed 26-03-2026
     6 lectures • 37min
 
     Python Refresher (For Data Science)
