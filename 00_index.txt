@@ -1,0 +1,75 @@
+1. The Ultimate Job Ready Data Science Course code with harry course : https://www.codewithharry.com/courses/the-ultimate-job-ready-data-science-course
+
+    24 sections • 203 lectures • 33hr 35min
+
+    Introduction to Data Science
+    4 lectures • 28min
+
+    Understanding the Conda Environment
+    6 lectures • 37min
+
+    Python Refresher (For Data Science)
+    19 lectures • 137min
+
+    Claim your Free Developer Tools
+    2 lectures • 6min
+
+    Project 1 - Coders of Delhi
+    4 lectures • 59min
+
+    Project 2 - Coders of Bangalore
+    6 lectures • 61min
+
+    Data analysis using Numpy
+    7 lectures • 87min
+
+    Data Analysis using Pandas
+    10 lectures • 127min
+
+    Data Visualization using Matplotlib and Seaborn
+    10 lectures • 137min
+
+    Data Collection Techniques
+    5 lectures • 67min
+
+    SQL for Data Science
+    21 lectures • 196min
+
+    Probability
+    7 lectures • 70min
+
+    Probability Distributions and Central Limit Theorem
+    5 lectures • 35min
+
+    Machine Learning for Data Scientists
+    5 lectures • 61min
+
+    Types of ML Algorithms
+    5 lectures • 34min
+
+    Practical ML using Scikit-learn
+    20 lectures • 220min
+
+    Deep Learning & Neural Networks
+    8 lectures • 75min
+
+    Web Development for Data Scientists
+    12 lectures • 88min
+
+    Large Language Models
+    4 lectures • 37min
+
+    Leveraging AI as a Data Scientist
+    3 lectures • 32min
+
+    Git for Data Scientists
+    14 lectures • 140min
+
+    Using Google Colab for Data Science
+    5 lectures • 50min
+
+    Project 3 - RAG based AI Teaching Assistant
+    20 lectures • 214min
+
+    Conclusion
+    1 lectures • 7min
